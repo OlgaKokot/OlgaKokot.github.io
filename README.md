@@ -1,1 +1,1 @@
-OlgaKokot.github.io
+olgakokot.github.io
