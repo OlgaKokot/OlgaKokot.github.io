@@ -378,3 +378,8 @@ ___________
     font-weight: bold;
     cursor: pointer;
 }
+
+#text
+{
+    text-align: center;
+}
